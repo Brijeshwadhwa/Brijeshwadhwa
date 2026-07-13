@@ -1,4 +1,13 @@
-# Hi 👋 I'm Brijesh Wadhwa
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│          🔐 Brijesh Wadhwa                                  │
+│                                                              │
+│      Cybersecurity Student | Ethical Hacker | Linux          │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+
+
+Hi 👋 I'm Brijesh Wadhwa
 
 🔐 Cybersecurity Student
 🛡️ Interested in Ethical Hacking, Digital Forensics & Network Security
