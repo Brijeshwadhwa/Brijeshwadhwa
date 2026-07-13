@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi 👋 I'm Brijesh Wadhwa
 
-<!--
-**Brijeshwadhwa/Brijeshwadhwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Student
+🛡️ Interested in Ethical Hacking, Digital Forensics & Network Security
+🐧 Linux Enthusiast
+📚 Currently learning Web Security, Active Directory, and Malware Analysis
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+
+- Linux
+- Python
+- Bash
+- Networking
+- Wireshark
+- Burp Suite
+- Nmap
+- Metasploit
+- Shodan
+- Git/Github
+
+
+---
+
+## 🎯 Current Goals
+- Complete More TryHackMe
+- Complete more Hack The Box labs
+- Learn Malware Analysis
+- Contribute to Open Source Security Projects
+- Earn Security Certifications
+
+---
+
+## 📂 Featured Projects
+
+- 🔍 Port Scanner (Python)
+- 🌐 Network Scanner
+- 🔐 Password Strength Checker
+- 📦 Log Analyzer
+- 🕵️ Packet Analyzer
+- 🔑 Hash Cracker (Educational)
+- 🛡️ Web Vulnerability Scanner
+
+---
+
+## 📜 Certifications
+
+- Google Cybersecurity Professional Certificate
+- TryHackMe
+- Cisco Networking Academy
+- CompTIA Security+ (In Progress)
+
+---
+
+## 🏆 Platforms
+
+- TryHackMe
+- Hack The Box
+- PicoCTF
+- OverTheWire
+
+---
+
+## 📫 Connect
+
+LinkedIn = https://www.linkedin.com/in/brijeshwadhwa26/
