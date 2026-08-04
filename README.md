@@ -166,12 +166,16 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brijeshwadhwa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brijeshwadhwa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=Brijeshwadhwa&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Brijeshwadhwa&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brijeshwadhwa&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=Brijeshwadhwa&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Brijeshwadhwa&theme=tokyonight&no-bg=true&margin-w=15"/>
 </p>
 
 ---
